@@ -1,5 +1,8 @@
 # Reading Notes
 
-1. Complete Prep: Setup Your Accounts
-2. Complete Prep: Set Up Your Machine
-3. Read the Career Coaching Overview
+Notes from class
+
+## Code 102 - Intro to Software Development
+## Code 201 - Foundations of Software Development
+## Code 301 - Intermediate Software Development
+## Code 401 - Advanced Software Development
